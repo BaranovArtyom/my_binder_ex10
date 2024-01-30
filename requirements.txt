@@ -1,0 +1,5 @@
+
+# Зависимости для Python ноутбуков
+numpy
+pandas
+matplotlib
